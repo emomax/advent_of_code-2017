@@ -6,6 +6,9 @@ import sun.jvm.hotspot.utilities.Assert;
 
 public class December1_TaskBTest {
 
+    /**
+     * Tests derived from task.getDescription();
+     */
     @Test
     public void taskBTest() {
         final December1_TaskB task = new December1_TaskB("1212");
