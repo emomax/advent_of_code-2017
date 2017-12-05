@@ -1,13 +1,10 @@
 package se.maxjonsson.days.december1;
 
-import java.util.logging.Logger;
-
 import se.maxjonsson.Task;
 import se.maxjonsson.utils.FileReader;
 
 public class December1_TaskB implements Task {
 
-    final Logger debug = Logger.getAnonymousLogger();
     final String input;
 
     private int result = 0;
@@ -38,7 +35,7 @@ public class December1_TaskB implements Task {
         }
 
         result = sum;
-        debug.info("Secret number: " + result);
+        System.out.println("Secret number: " + result);
     }
 
     private int wrapOffset(final int baseOffset, final int i) {
