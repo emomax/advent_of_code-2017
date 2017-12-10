@@ -2,29 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a934d45-ab04-430a-bbd0-cdafb0442b53" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/Task.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskATest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskBTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskATest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskBTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskATest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskBTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskATest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskBTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/utils/Coordinate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/utils/FileReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/utils/IncrementableInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10_TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10_TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7_TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7_TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8_TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8_TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9_TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9_TaskB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java" afterPath="$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,14 +27,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/Main.java">
+      <file leaf-file-name="December8_TaskA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8_TaskA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="295">
+              <caret line="35" column="73" lean-forward="false" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
               <folding>
-                <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#3340#3341#0" expanded="true" />
+                <element signature="e#3398#3399#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="December10_TaskA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10_TaskA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="41" column="16" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+              <folding>
+                <element signature="e#2440#2441#0" expanded="true" />
+                <element signature="e#2482#2483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="December10_TaskB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10_TaskB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="77" column="12" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+              <folding>
+                <element signature="e#3305#3306#0" expanded="true" />
+                <element signature="e#3334#3335#0" expanded="true" />
+                <element signature="e#3383#3384#0" expanded="true" />
+                <element signature="e#3436#3437#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="December10Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="December8_TaskB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8_TaskB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="105" column="60" lean-forward="false" selection-start-line="105" selection-start-column="60" selection-end-line="105" selection-end-column="60" />
+              <folding>
+                <element signature="e#3668#3669#0" expanded="true" />
+                <element signature="e#3737#3738#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,50 +101,8 @@
       <file leaf-file-name="TaskRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="December4_TaskA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="52" column="56" lean-forward="false" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1749#1750#0" expanded="true" />
-                <element signature="e#1805#1806#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="December4_TaskB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="49" column="63" lean-forward="false" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2044#2045#0" expanded="true" />
-                <element signature="e#2073#2074#0" expanded="true" />
-                <element signature="e#2122#2123#0" expanded="true" />
-                <element signature="e#2189#2190#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="December4_TaskBTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskBTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            <state relative-caret-position="384">
+              <caret line="54" column="37" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,59 +111,53 @@
         </entry>
       </file>
       <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input/december4/input.txt">
+        <entry file="file://$PROJECT_DIR$/input/december10/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="511" column="33" lean-forward="false" selection-start-line="511" selection-start-column="33" selection-end-line="511" selection-end-column="33" />
+            <state relative-caret-position="0">
+              <caret line="0" column="53" lean-forward="false" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IncrementableInt.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/IncrementableInt.java">
+      <file leaf-file-name="December7_TaskB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7_TaskB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="-1533">
+              <caret line="108" column="80" lean-forward="false" selection-start-line="108" selection-start-column="80" selection-end-line="108" selection-end-column="80" />
               <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#1237#1238#0" expanded="true" />
+                <element signature="e#1276#1277#0" expanded="true" />
+                <element signature="e#1841#1842#0" expanded="true" />
+                <element signature="e#1881#1882#0" expanded="true" />
+                <element signature="e#2053#2054#0" expanded="true" />
+                <element signature="e#2126#2127#0" expanded="true" />
+                <element signature="e#2182#2183#0" expanded="true" />
+                <element signature="e#2216#2217#0" expanded="true" />
+                <element signature="e#6707#6708#0" expanded="true" />
+                <element signature="e#6766#6767#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="December4_TaskATest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskATest.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#88#89#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/Task.java">
+      <file leaf-file-name="December9_TaskB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9_TaskB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="December3_TaskATest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskATest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="-252">
+              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,8 +171,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -191,32 +192,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/Main.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/Task.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/utils/FileReader.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/TaskA.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_taskA.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskATest.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskBTest.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskA.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskB.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskATest.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskA.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskBTest.java" />
         <option value="$PROJECT_DIR$/input/december3/input.txt" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskATest.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/utils/Coordinate.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskBTest.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskA.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskB.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskB.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskATest.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/utils/IncrementableInt.java" />
         <option value="$PROJECT_DIR$/input/december4/input.txt" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskA.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskBTest.java" />
-        <option value="$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskB.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskB.java" />
+        <option value="$PROJECT_DIR$/input/december5/input.txt" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/utils/IncrementableInt.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5_TaskA.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5_TaskB.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskBTest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskATest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskBTest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskATest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskBTest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskATest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskBTest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskATest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5_TaskBTest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5_TaskATest.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5Test.java" />
+        <option value="$PROJECT_DIR$/input/december6/input.txt" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december6/December6Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december6/December6_TaskA.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december6/December6_TaskB.java" />
+        <option value="$PROJECT_DIR$/input/december9/input.txt" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9_TaskA.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9_TaskB.java" />
+        <option value="$PROJECT_DIR$/input/december7/input.txt" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7_TaskA.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7_TaskB.java" />
+        <option value="$PROJECT_DIR$/input/december8/input.txt" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8_TaskA.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8_TaskB.java" />
+        <option value="$PROJECT_DIR$/input/december10/input.txt" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10_TaskA.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10Test.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10_TaskB.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java" />
       </list>
     </option>
   </component>
@@ -239,6 +265,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,6 +298,36 @@
               <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
               <item name="input" type="462c0819:PsiDirectoryNode" />
               <item name="december4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="december6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="december7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="december8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="december9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="december10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
@@ -318,6 +378,54 @@
               <item name="maxjonsson" type="462c0819:PsiDirectoryNode" />
               <item name="days" type="462c0819:PsiDirectoryNode" />
               <item name="december4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maxjonsson" type="462c0819:PsiDirectoryNode" />
+              <item name="days" type="462c0819:PsiDirectoryNode" />
+              <item name="december5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maxjonsson" type="462c0819:PsiDirectoryNode" />
+              <item name="days" type="462c0819:PsiDirectoryNode" />
+              <item name="december6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maxjonsson" type="462c0819:PsiDirectoryNode" />
+              <item name="days" type="462c0819:PsiDirectoryNode" />
+              <item name="december7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maxjonsson" type="462c0819:PsiDirectoryNode" />
+              <item name="days" type="462c0819:PsiDirectoryNode" />
+              <item name="december8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maxjonsson" type="462c0819:PsiDirectoryNode" />
+              <item name="days" type="462c0819:PsiDirectoryNode" />
+              <item name="december9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent_of_code-2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maxjonsson" type="462c0819:PsiDirectoryNode" />
+              <item name="days" type="462c0819:PsiDirectoryNode" />
+              <item name="december10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
@@ -380,6 +488,13 @@
               <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
               <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
               <item name="junit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent_of_code-2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
               <item name="internal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -405,10 +520,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,6 +532,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="se.maxjonsson.days.december5" />
       <recent name="se.maxjonsson.days.december4" />
       <recent name="se.maxjonsson.days.december3" />
       <recent name="se.maxjonsson.days.december2" />
@@ -430,9 +542,11 @@
       <recent name="se.maxjonsson.days" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="se.maxjonsson.days.december4" />
-      <recent name="se.maxjonsson.days.december3" />
-      <recent name="se.maxjonsson.days.december2" />
+      <recent name="se.maxjonsson.days.december10" />
+      <recent name="se.maxjonsson.days.december8" />
+      <recent name="se.maxjonsson.days.december7" />
+      <recent name="se.maxjonsson.days.december9" />
+      <recent name="se.maxjonsson.days.december6" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -451,18 +565,18 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="December3_TaskATest.taskATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="December10Test.taskATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="se.maxjonsson.days.december3.*" />
+          <option name="PATTERN" value="se.maxjonsson.days.december10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="advent_of_code-2017" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="se.maxjonsson.days.december3" />
-      <option name="MAIN_CLASS_NAME" value="se.maxjonsson.days.december3.December3_TaskATest" />
+      <option name="PACKAGE_NAME" value="se.maxjonsson.days.december10" />
+      <option name="MAIN_CLASS_NAME" value="se.maxjonsson.days.december10.December10Test" />
       <option name="METHOD_NAME" value="taskATest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -476,18 +590,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="December3_TaskBTest.taskBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="December10Test.taskBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="se.maxjonsson.days.december3.*" />
+          <option name="PATTERN" value="se.maxjonsson.days.december10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="advent_of_code-2017" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="se.maxjonsson.days.december3" />
-      <option name="MAIN_CLASS_NAME" value="se.maxjonsson.days.december3.December3_TaskBTest" />
+      <option name="PACKAGE_NAME" value="se.maxjonsson.days.december10" />
+      <option name="MAIN_CLASS_NAME" value="se.maxjonsson.days.december10.December10Test" />
       <option name="METHOD_NAME" value="taskBTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -501,18 +615,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="December4_TaskATest.taskATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="December8Test.taskATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="se.maxjonsson.days.december4.*" />
+          <option name="PATTERN" value="se.maxjonsson.days.december8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="advent_of_code-2017" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="se.maxjonsson.days.december4" />
-      <option name="MAIN_CLASS_NAME" value="se.maxjonsson.days.december4.December4_TaskATest" />
+      <option name="PACKAGE_NAME" value="se.maxjonsson.days.december8" />
+      <option name="MAIN_CLASS_NAME" value="se.maxjonsson.days.december8.December8Test" />
       <option name="METHOD_NAME" value="taskATest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -526,18 +640,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="December4_TaskBTest.taskBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="December8Test.taskBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="se.maxjonsson.days.december4.*" />
+          <option name="PATTERN" value="se.maxjonsson.days.december8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="advent_of_code-2017" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="se.maxjonsson.days.december4" />
-      <option name="MAIN_CLASS_NAME" value="se.maxjonsson.days.december4.December4_TaskBTest" />
+      <option name="PACKAGE_NAME" value="se.maxjonsson.days.december8" />
+      <option name="MAIN_CLASS_NAME" value="se.maxjonsson.days.december8.December8Test" />
       <option name="METHOD_NAME" value="taskBTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -584,18 +698,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.December3_TaskATest.taskATest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.December3_TaskBTest.taskBTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.December4_TaskATest.taskATest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.December4_TaskBTest.taskBTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.December8Test.taskATest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.December8Test.taskBTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.December10Test.taskATest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.December10Test.taskBTest" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.December4_TaskBTest.taskBTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.December4_TaskATest.taskATest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.December3_TaskBTest.taskBTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.December3_TaskATest.taskATest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.December10Test.taskBTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.December10Test.taskATest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.December8Test.taskBTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.December8Test.taskATest" />
       </list>
     </recent_temporary>
   </component>
@@ -616,35 +730,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="December3_TaskATest_taskATest - 2017.12.03 at 11h 00m 01s.xml">
-      <configuration name="December3_TaskATest.taskATest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 39m 20s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December3_TaskBTest_taskBTest - 2017.12.03 at 10h 56m 06s.xml">
-      <configuration name="December3_TaskBTest.taskBTest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 40m 38s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December3_TaskBTest_taskBTest - 2017.12.03 at 10h 59m 53s.xml">
-      <configuration name="December3_TaskBTest.taskBTest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 40m 55s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December3_TaskBTest_taskBTest - 2017.12.03 at 11h 00m 12s.xml">
-      <configuration name="December3_TaskBTest.taskBTest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 42m 30s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December4_TaskATest_taskATest - 2017.12.04 at 07h 07m 39s.xml">
-      <configuration name="December4_TaskATest.taskATest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 44m 40s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December4_TaskATest_taskATest - 2017.12.04 at 07h 08m 04s.xml">
-      <configuration name="December4_TaskATest.taskATest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 45m 19s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December4_TaskBTest_taskBTest - 2017.12.04 at 07h 16m 46s.xml">
-      <configuration name="December4_TaskBTest.taskBTest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 49m 00s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December4_TaskBTest_taskBTest - 2017.12.04 at 07h 17m 15s.xml">
-      <configuration name="December4_TaskBTest.taskBTest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 50m 40s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December4_TaskBTest_taskBTest - 2017.12.04 at 07h 18m 00s.xml">
-      <configuration name="December4_TaskBTest.taskBTest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 51m 23s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="December4_TaskBTest_taskBTest - 2017.12.04 at 07h 18m 23s.xml">
-      <configuration name="December4_TaskBTest.taskBTest" configurationId="JUnit" />
+    <history-entry file="December10Test_taskBTest - 2017.12.11 at 00h 51m 28s.xml">
+      <configuration name="December10Test.taskBTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -661,7 +775,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30371568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -669,7 +783,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4951857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3562586" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -684,87 +798,138 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="38" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/Main.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="179">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-326">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#291#292#0" expanded="false" />
+            <element signature="e#369#370#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="208">
+          <caret line="52" column="56" lean-forward="false" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/december5/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="1051" column="3" lean-forward="false" selection-start-line="1051" selection-start-column="3" selection-end-line="1051" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/Coordinate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="49" column="63" lean-forward="false" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskBTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskBTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskBTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskBTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="107" column="75" lean-forward="false" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="75" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="64" column="28" lean-forward="false" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#369#370#0" expanded="false" />
-            <element signature="e#403#404#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/december1/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskBTest.java">
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/FileReader.java">
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5_TaskBTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,156 +941,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#369#370#0" expanded="false" />
-            <element signature="e#403#404#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskBTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/input/december6/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/december4/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7665">
+          <caret line="511" column="33" lean-forward="false" selection-start-line="511" selection-start-column="33" selection-end-line="511" selection-end-column="33" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/december1/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskBTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -933,6 +960,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december5/December5_TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="77" lean-forward="false" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="39" column="89" lean-forward="false" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december6/December6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/december9/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13447" lean-forward="false" selection-start-line="0" selection-start-column="13447" selection-end-line="0" selection-end-column="13447" />
           <folding />
         </state>
       </provider>
@@ -945,210 +1030,231 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/Coordinate.java">
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9_TaskA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="81">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#1563#1564#0" expanded="true" />
+            <element signature="e#1612#1613#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskBTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskBTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="762">
-          <caret line="64" column="28" lean-forward="false" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
-          <folding>
-            <element signature="e#369#370#0" expanded="false" />
-            <element signature="e#403#404#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december1/December1_TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-326">
-          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december2/December2_TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="107" column="75" lean-forward="false" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-738">
-          <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-          <folding>
-            <element signature="e#2026#2027#0" expanded="true" />
-            <element signature="e#2082#2083#0" expanded="true" />
-            <element signature="e#2448#2449#0" expanded="true" />
-            <element signature="e#2502#2503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="51" column="95" lean-forward="true" selection-start-line="51" selection-start-column="95" selection-end-line="51" selection-end-column="95" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december3/December3_TaskATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/december4/input.txt">
+    <entry file="file://$PROJECT_DIR$/input/december7/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
-          <caret line="511" column="33" lean-forward="false" selection-start-line="511" selection-start-column="33" selection-end-line="511" selection-end-column="33" />
+          <caret line="1419" column="13" lean-forward="false" selection-start-line="1419" selection-start-column="13" selection-end-line="1419" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskA.java">
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december6/December6_TaskB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="52" column="56" lean-forward="false" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        <state relative-caret-position="-110">
+          <caret line="53" column="72" lean-forward="false" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/IncrementableInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1749#1750#0" expanded="true" />
-            <element signature="e#1805#1806#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskATest.java">
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="246">
+          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskBTest.java">
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7_TaskA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        <state relative-caret-position="0">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1424#1425#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#4049#4050#0" expanded="true" />
+            <element signature="e#4097#4098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december6/December6_TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#692#693#0" expanded="false" />
+            <element signature="e#743#744#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/december8/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="999" column="24" lean-forward="false" selection-start-line="999" selection-start-column="24" selection-end-line="999" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december7/December7_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1533">
+          <caret line="108" column="80" lean-forward="false" selection-start-line="108" selection-start-column="80" selection-end-line="108" selection-end-column="80" />
+          <folding>
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1841#1842#0" expanded="true" />
+            <element signature="e#1881#1882#0" expanded="true" />
+            <element signature="e#2053#2054#0" expanded="true" />
+            <element signature="e#2126#2127#0" expanded="true" />
+            <element signature="e#2182#2183#0" expanded="true" />
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#6707#6708#0" expanded="true" />
+            <element signature="e#6766#6767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december9/December9_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8_TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="35" column="73" lean-forward="false" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#3340#3341#0" expanded="true" />
+            <element signature="e#3398#3399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/december10/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="53" lean-forward="false" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10_TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="41" column="16" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding>
+            <element signature="e#2440#2441#0" expanded="true" />
+            <element signature="e#2482#2483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december8/December8_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="105" column="60" lean-forward="false" selection-start-line="105" selection-start-column="60" selection-end-line="105" selection-end-column="60" />
+          <folding>
+            <element signature="e#3668#3669#0" expanded="true" />
+            <element signature="e#3737#3738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10_TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="77" column="12" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+          <folding>
+            <element signature="e#3305#3306#0" expanded="true" />
+            <element signature="e#3334#3335#0" expanded="true" />
+            <element signature="e#3383#3384#0" expanded="true" />
+            <element signature="e#3436#3437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/TaskRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        <state relative-caret-position="384">
+          <caret line="54" column="37" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding>
             <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/December4_TaskB.java">
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december10/December10Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="49" column="63" lean-forward="false" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+        <state relative-caret-position="452">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2073#2074#0" expanded="true" />
-            <element signature="e#2122#2123#0" expanded="true" />
-            <element signature="e#2189#2190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/utils/IncrementableInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
           </folding>
         </state>
       </provider>

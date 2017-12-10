@@ -1,0 +1,115 @@
+package se.maxjonsson.days.december9;
+
+import se.maxjonsson.Task;
+import se.maxjonsson.utils.FileReader;
+
+public class December9_TaskA implements Task {
+
+    private String input;
+    private int result = 0;
+
+    public December9_TaskA() {
+        input = FileReader.readSingleLine("input/december9/input.txt");
+    }
+
+    public December9_TaskA(final String input) {
+        this.input = input;
+    }
+
+    @Override
+    public void run() {
+        int score = 0;
+        int groupIndex = 0;
+        boolean collectingGarbage = false;
+        boolean skipNext = false;
+
+        char[] chars = input.toCharArray();
+
+        for (char character : chars) {
+            if (skipNext) {
+                skipNext = false;
+                continue;
+            }
+
+            if (character == '!') {
+                skipNext = true;
+            }
+
+            if (collectingGarbage) {
+                if (character == '>') {
+                    collectingGarbage = false;
+                }
+                continue;
+            }
+
+            if (character == '<') {
+                collectingGarbage = true;
+            }
+
+            if (character == '{') {
+                groupIndex++;
+            }
+
+            if (character == '}') {
+                score += groupIndex;
+                groupIndex--;
+            }
+        }
+
+        result = score;
+        System.out.println(String.format("Got a score of %s for the current char stream.", result));
+    }
+
+    public int getResult() {
+        return result;
+    }
+
+    @Override
+    public String getTaskName() {
+        return "Day 9: Stream Processing";
+    }
+
+    @Override
+    public String getTaskDescription() {
+        return "A large stream blocks your path. According to the locals, it's not safe to cross the stream at the moment because it's full of garbage. You look down at the stream; rather than water, you discover that it's a stream of characters.\n" +
+               "\n" +
+               "You sit for a while and record part of the stream (your puzzle input). The characters represent groups - sequences that begin with { and end with }. Within a group, there are zero or more other things, separated by commas: either another group or garbage. Since groups can contain other groups, a } only closes the most-recently-opened unclosed group - that is, they are nestable. Your puzzle input represents a single, large group which itself contains many smaller ones.\n" +
+               "\n" +
+               "Sometimes, instead of a group, you will find garbage. Garbage begins with < and ends with >. Between those angle brackets, almost any character can appear, including { and }. Within garbage, < has no special meaning.\n" +
+               "\n" +
+               "In a futile attempt to clean up the garbage, some program has canceled some of the characters within it using !: inside garbage, any character that comes after ! should be ignored, including <, >, and even another !.\n" +
+               "\n" +
+               "You don't see any characters that deviate from these rules. Outside garbage, you only find well-formed groups, and garbage always terminates according to the rules above.\n" +
+               "\n" +
+               "Here are some self-contained pieces of garbage:\n" +
+               "\n" +
+               "<>, empty garbage.\n" +
+               "<random characters>, garbage containing random characters.\n" +
+               "<<<<>, because the extra < are ignored.\n" +
+               "<{!>}>, because the first > is canceled.\n" +
+               "<!!>, because the second ! is canceled, allowing the > to terminate the garbage.\n" +
+               "<!!!>>, because the second ! and the first > are canceled.\n" +
+               "<{o\"i!a,<{i<a>, which ends at the first >.\n" +
+               "Here are some examples of whole streams and the number of groups they contain:\n" +
+               "\n" +
+               "{}, 1 group.\n" +
+               "{{{}}}, 3 groups.\n" +
+               "{{},{}}, also 3 groups.\n" +
+               "{{{},{},{{}}}}, 6 groups.\n" +
+               "{<{},{},{{}}>}, 1 group (which itself contains garbage).\n" +
+               "{<a>,<a>,<a>,<a>}, 1 group.\n" +
+               "{{<a>},{<a>},{<a>},{<a>}}, 5 groups.\n" +
+               "{{<!>},{<!>},{<!>},{<a>}}, 2 groups (since all but the last > are canceled).\n" +
+               "Your goal is to find the total score for all groups in your input. Each group is assigned a score which is one more than the score of the group that immediately contains it. (The outermost group gets a score of 1.)\n" +
+               "\n" +
+               "{}, score of 1.\n" +
+               "{{{}}}, score of 1 + 2 + 3 = 6.\n" +
+               "{{},{}}, score of 1 + 2 + 2 = 5.\n" +
+               "{{{},{},{{}}}}, score of 1 + 2 + 3 + 3 + 3 + 4 = 16.\n" +
+               "{<a>,<a>,<a>,<a>}, score of 1.\n" +
+               "{{<ab>},{<ab>},{<ab>},{<ab>}}, score of 1 + 2 + 2 + 2 + 2 = 9.\n" +
+               "{{<!!>},{<!!>},{<!!>},{<!!>}}, score of 1 + 2 + 2 + 2 + 2 = 9.\n" +
+               "{{<a!>},{<a!>},{<a!>},{<ab>}}, score of 1 + 2 = 3.";
+    }
+}
+

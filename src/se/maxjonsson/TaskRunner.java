@@ -5,6 +5,8 @@ import java.util.List;
 
 import se.maxjonsson.days.december1.December1_TaskA;
 import se.maxjonsson.days.december1.December1_TaskB;
+import se.maxjonsson.days.december10.December10_TaskA;
+import se.maxjonsson.days.december10.December10_TaskB;
 import se.maxjonsson.days.december2.December2_TaskA;
 import se.maxjonsson.days.december2.December2_TaskB;
 import se.maxjonsson.days.december3.December3_TaskA;
@@ -15,6 +17,12 @@ import se.maxjonsson.days.december5.December5_TaskA;
 import se.maxjonsson.days.december5.December5_TaskB;
 import se.maxjonsson.days.december6.December6_TaskA;
 import se.maxjonsson.days.december6.December6_TaskB;
+import se.maxjonsson.days.december7.December7_TaskA;
+import se.maxjonsson.days.december7.December7_TaskB;
+import se.maxjonsson.days.december8.December8_TaskA;
+import se.maxjonsson.days.december8.December8_TaskB;
+import se.maxjonsson.days.december9.December9_TaskA;
+import se.maxjonsson.days.december9.December9_TaskB;
 
 class TaskRunner {
 
@@ -37,6 +45,14 @@ class TaskRunner {
         tasks.add(new December5_TaskB());
         tasks.add(new December6_TaskA());
         tasks.add(new December6_TaskB());
+        tasks.add(new December7_TaskA());
+        tasks.add(new December7_TaskB());
+        tasks.add(new December8_TaskA());
+        tasks.add(new December8_TaskB());
+        tasks.add(new December9_TaskA());
+        tasks.add(new December9_TaskB());
+        tasks.add(new December10_TaskA());
+        tasks.add(new December10_TaskB());
     }
 
     void run() {
