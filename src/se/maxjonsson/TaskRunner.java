@@ -7,6 +7,9 @@ import se.maxjonsson.days.december1.December1_TaskA;
 import se.maxjonsson.days.december1.December1_TaskB;
 import se.maxjonsson.days.december10.December10_TaskA;
 import se.maxjonsson.days.december10.December10_TaskB;
+import se.maxjonsson.days.december11.December11_TaskA;
+import se.maxjonsson.days.december12.December12_TaskA;
+import se.maxjonsson.days.december12.December12_TaskB;
 import se.maxjonsson.days.december2.December2_TaskA;
 import se.maxjonsson.days.december2.December2_TaskB;
 import se.maxjonsson.days.december3.December3_TaskA;
@@ -53,6 +56,10 @@ class TaskRunner {
         tasks.add(new December9_TaskB());
         tasks.add(new December10_TaskA());
         tasks.add(new December10_TaskB());
+        tasks.add(new December11_TaskA());
+        //tasks.add(new December11_TaskB());
+        tasks.add(new December12_TaskA());
+        tasks.add(new December12_TaskB());
     }
 
     void run() {
